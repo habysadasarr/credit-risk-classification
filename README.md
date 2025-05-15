@@ -42,7 +42,7 @@ Print the classification report.
 
 Answer the following question: How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
 
-Report: Overview of the Analysis
+## Report: Overview of the Analysis
 Explain the purpose of the analysis. The purpose of this analysis is to develop a model for credit risk classifications based on financial information to predict whether a loan applicant is likely to have a healthy loan or a high-risk loan, meaning if they are likely to default on payments or not.
 
 Explain what financial information the data was on, and what you needed to predict. The data showed financial information for each applicant and loan including: loan size, interest rate, income, debt-to-income ratio, number of accounts, any derogatory marks, and total debt. This information was used to predict if the applicant was likely to default on their loan payment (making it a high-risk loan).
